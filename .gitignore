@@ -2,3 +2,5 @@ runs
 testdata
 traindata
 .ipynb_checkpoints
+ant_bees/
+data/
